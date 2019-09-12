@@ -1,4 +1,4 @@
-# Equities-Project
+# Investment Portfolio
 
 The project provides an introduction to a custom portfolio strategy. Confidential information is not displayed. 
 Please download the executable in https://github.com/alpaddesai/Equities-Project/releases for details.
