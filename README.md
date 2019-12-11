@@ -18,4 +18,4 @@ Most of the images are custom.
 ![image](EquityContributionofReturnvsRisk.png)
 
 ## Investment Management and Portfolio Certification
-![image](InvestmentManagementPortfolio.png)
+![image](InvestmentManagementPortfolio.jpg)
