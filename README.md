@@ -19,3 +19,5 @@ Most of the images are custom.
 
 ## Investment Management and Portfolio Certification
 ![image](InvestmentManagementPortfolio.jpg)
+
+Additional details : https://github.com/alpaddesai/PortfolioReturnGUIIdea
