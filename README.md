@@ -17,6 +17,9 @@ Most of the images are custom.
 ## Equity Contribution of Risk versus Return 
 ![image](EquityContributionofReturnvsRisk.png)
 
+## Investment Portfolio
+![image](PortfolioImage.jpg)
+
 ## Investment Management and Portfolio Certification
 ![image](InvestmentManagementPortfolio.jpg)
 
