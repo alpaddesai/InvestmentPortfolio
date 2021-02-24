@@ -20,6 +20,8 @@ Most of the images are custom.
 ## Investment Portfolio
 ![image](PortfolioImage.jpg)
 
+![image](image1.png)
+
 ## Investment Management and Portfolio Certification
 ![image](InvestmentManagementPortfolio.jpg)
 
