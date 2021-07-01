@@ -25,4 +25,7 @@ Most of the images are custom.
 ## Investment Management and Portfolio Certification
 ![image](InvestmentManagementPortfolio.jpg)
 
+## Ethics and Integrity
+![image](EthicsandExcellence.png)
+
 Additional details : https://github.com/alpaddesai/PortfolioReturnGUIIdea
