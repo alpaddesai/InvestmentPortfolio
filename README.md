@@ -28,4 +28,6 @@ Most of the images are custom.
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
+![image](USCopyrightCertificate.png)
+
 Additional details : https://github.com/alpaddesai/PortfolioReturnGUIIdea
