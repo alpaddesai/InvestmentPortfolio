@@ -25,6 +25,9 @@ Most of the images are custom.
 ## Investment Management and Portfolio Certification
 ![image](InvestmentManagementPortfolio.jpg)
 
+## exam
+![image](CFAExam.jpg)
+
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
