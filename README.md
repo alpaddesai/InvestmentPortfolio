@@ -33,4 +33,4 @@ Most of the images are custom.
 
 ![image](USCopyrightCertificate.png)
 
-Additional details : https://github.com/alpaddesai/PortfolioReturnGUIIdea and https://github.com/alpaddesai/GraduateManagementAptitudeTest.
+Additional details : https://github.com/alpaddesai/PortfolioReturnGUIIdea 
