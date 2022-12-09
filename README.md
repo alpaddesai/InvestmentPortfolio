@@ -22,14 +22,14 @@ Most of the images are custom.
 
 ![image](image1.png)
 
-## Investment Management and Portfolio Certification
-![image](InvestmentManagementPortfolio.jpg)
-
 ## International Mutual Funds
 ![image](MutualFundsAlpaDesai.jpg)
 
 ## Exam
 ![image](CFAExam.jpg)
+
+## Investment Management and Portfolio Certification
+![image](InvestmentManagementPortfolio.jpg)
 
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
