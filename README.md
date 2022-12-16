@@ -20,9 +20,6 @@ Most of the images are custom.
 ## Financial Reporting
 ![image](FinancialReporting.png)
 
-## Investment Portfolio
-![image](PortfolioImage.jpg)
-
 ## Equity Research Certificate
 ![image](EquityResearchFinancialModeling.jpg)
 
