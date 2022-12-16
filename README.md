@@ -28,9 +28,6 @@ Most of the images are custom.
 
 ![image](image1.png)
 
-## International Mutual Funds
-![image](MutualFundsAlpaDesai.jpg)
-
 ## Exam
 ![image](CFAExam.jpg)
 
