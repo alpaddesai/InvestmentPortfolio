@@ -23,8 +23,6 @@ Most of the images are custom.
 ## Equity Research Certificate
 ![image](EquityResearchFinancialModeling.jpg)
 
-![image](image1.png)
-
 ## Exam
 ![image](CFAExam.jpg)
 
