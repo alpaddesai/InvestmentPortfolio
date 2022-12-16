@@ -23,6 +23,9 @@ Most of the images are custom.
 ## Investment Portfolio
 ![image](PortfolioImage.jpg)
 
+## Equity Research Certificate
+![image](EquityResearchFinancialModeling.jpg)
+
 ![image](image1.png)
 
 ## International Mutual Funds
