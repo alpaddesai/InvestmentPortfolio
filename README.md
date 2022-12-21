@@ -17,7 +17,7 @@ Most of the images are custom.
 ## Equity Contribution of Risk versus Return 
 ![image](EquityContributionofReturnvsRisk.png)
 
-## Financial Reporting
+## 2015 10-k analysis financial reporting
 ![image](FinancialReporting.png)
 
 ## Equity Research Certificate
