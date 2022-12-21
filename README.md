@@ -23,9 +23,6 @@ Most of the images are custom.
 ## Equity Research Certificate
 ![image](EquityResearchFinancialModeling.jpg)
 
-## Exam
-![image](CFAExam.jpg)
-
 ## Investment Management and Portfolio Certification
 ![image](InvestmentManagementPortfolio.jpg)
 
