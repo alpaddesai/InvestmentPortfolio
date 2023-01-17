@@ -31,4 +31,4 @@ Most of the images are custom.
 
 ![image](USCopyrightCertificate.png)
 
-Additional details : https://github.com/alpaddesai/PortfolioReturnGUIIdea 
+Additional details : https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
