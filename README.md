@@ -1,7 +1,7 @@
 # Investment Portfolio
 
 The project provides an introduction to a custom portfolio strategy. Confidential information is not displayed. 
-Please download the executable in https://github.com/alpaddesai/InvestmentPortfolio/releasesfor details.
+Please download the executable in https://github.com/alpaddesai/InvestmentPortfolio/releases for details.
 All images are either custom by Alpa D Desai or a reference name is included. 
 Most of the images are custom. 
 
