@@ -26,6 +26,9 @@ Most of the images are custom.
 ## Investment Management and Portfolio Certification
 ![image](InvestmentManagementPortfolio.jpg)
 
+## Storyboard
+![image](PortfolioStoryBoard.png)
+
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
